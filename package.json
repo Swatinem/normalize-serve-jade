@@ -1,0 +1,22 @@
+{
+  "name": "normalize-serve-jade",
+  "description": "Opinionated jade server for frontend development workflow using Normalize.IO",
+  "version": "0.0.1",
+  "author": "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)",
+  "license": "GPLv3",
+  "repository": "Swatinem/normalize-serve-jade",
+  "dependencies": {
+    "koa": "*",
+    "koa-logger": "1",
+    "koa-compress": "1",
+    "koa-static": "1",
+    "koa-normalize": "0",
+    "spdy": "1",
+    "spdy-keys": "0",
+    "co-views": "0",
+    "jade": "1"
+  },
+  "bin": {
+    "nlz-serve-jade.js": "bin/nlz-serve-jade.js"
+  }
+}
