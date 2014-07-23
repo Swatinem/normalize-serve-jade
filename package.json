@@ -1,7 +1,7 @@
 {
   "name": "normalize-serve-jade",
   "description": "Opinionated jade server for frontend development workflow using Normalize.IO",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)",
   "license": "GPLv3",
   "repository": "Swatinem/normalize-serve-jade",
